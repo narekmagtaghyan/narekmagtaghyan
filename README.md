@@ -1,4 +1,4 @@
-![My stats](https://github-readme-stats.vercel.app/api?username=narekmagtaghyan&show_icons=true&count_private=true&theme=radical)
+![My stats](https://github-readme-stats.vercel.app/api?username=narekmagtaghyan&show_icons=true&count_private=true&theme=algolia)
 
 
 ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
