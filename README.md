@@ -3,9 +3,9 @@
 
 ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-[<img align="left" alt="Instagram" width="23px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1620146597~hmac=3179029bdaf8b6b5c1c10f84d65f363f" />][Instagram]
-[<img align="left" alt="Telegram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1620146773~hmac=9f68335e2d5a9287e1e58bd50fbf522f" />][Telegram]
-[<img align="left" alt="VK" width="23px" src="https://www.flaticon.com/svg/vstatic/svg/145/145813.svg?token=exp=1620146805~hmac=93e63086bf90aed5cc2d23de868e76f7" />][VK]
+[<img align="left" alt="VK" width="23px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111712.svg?token=exp=1620147469~hmac=8d68106a21a0b8c9149670c9a7d41941" />][VK]
+[<img align="left" alt="Telegram" width="23px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111644.svg?token=exp=1620147007~hmac=88cc20f2be50c0d44840245abdca3e95" />][Telegram]
+[<img align="left" alt="Instagram" width="23px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1620146969~hmac=a29505ec6fe6ed10007c4e6b2b1e95c0" />][Instagram]
 
 <br/>
 
@@ -20,9 +20,9 @@
 
 <br/>
 
-[Instagram]: https://www.instagram.com/narekmag
-[Telegram]: https://www.linkedin.com/in/narekmag
 [VK]: https://vk.com/narekmag
+[Telegram]: https://www.linkedin.com/in/narekmag
+[Instagram]: https://www.instagram.com/narekmag
 
 <hr/>
 
