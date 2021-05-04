@@ -3,9 +3,9 @@
 
 ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
-[<img align="left" alt="VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][VK]
+[<img align="left" alt="Instagram" width="23px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1620146597~hmac=3179029bdaf8b6b5c1c10f84d65f363f" />][Instagram]
+[<img align="left" alt="Telegram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1620146773~hmac=9f68335e2d5a9287e1e58bd50fbf522f" />][Telegram]
+[<img align="left" alt="VK" width="23px" src="https://www.flaticon.com/svg/vstatic/svg/145/145813.svg?token=exp=1620146805~hmac=93e63086bf90aed5cc2d23de868e76f7" />][VK]
 
 <br/>
 
