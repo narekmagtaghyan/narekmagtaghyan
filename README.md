@@ -13,9 +13,9 @@
 
 <img align="left" alt="HTML5" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/136/136528.svg?token=exp=1620243134~hmac=e28d1837fc8062b331315effe132c109" />
 <img align="left" alt="CSS3" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/136/136527.svg?token=exp=1620243229~hmac=97e5aeea759a1f6263a4ffea4f8d6454" />
-<img align="left" alt="Sass" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/460/460993.svg?token=exp=1620243198~hmac=f23be939042ed6822d740c9119ce8825" />
-<img align="left" alt="JavaScript" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/1199/1199124.svg?token=exp=1620242463~hmac=d59d6a2ec5feedfe3a6d1ab1876e2fbc" />
-<img align="left" alt="Git" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/1680/1680899.svg?token=exp=1620242396~hmac=1aa7b98e13f82a717a25c5d3690cd0e1" />
+<img align="left" alt="Sass" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/460/460993.svg?token=exp=1620415042~hmac=99fcc6c60a65d1d6195855000451ca30" />
+<img align="left" alt="JavaScript" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1620415083~hmac=8c4a7b8094bd419f908ca36f57aa697d" />
+<img align="left" alt="Git" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/1680/1680936.svg?token=exp=1620414850~hmac=6e29f5ef367c0f3bf91c8fd7da185ca7" />
 <img align="left" alt="GitHub" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1620242331~hmac=0bcbdeca337dd74e8e329e2af43e1513" />
 
 <br/>
