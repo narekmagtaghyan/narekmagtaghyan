@@ -5,7 +5,7 @@
 
 [<img align="left" alt="VK" width="23px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111712.svg?token=exp=1620147469~hmac=8d68106a21a0b8c9149670c9a7d41941" />][VK]
 [<img align="left" alt="Telegram" width="23px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111644.svg?token=exp=1620147007~hmac=88cc20f2be50c0d44840245abdca3e95" />][Telegram]
-[<img align="left" alt="Instagram" width="23px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1620146969~hmac=a29505ec6fe6ed10007c4e6b2b1e95c0" />][Instagram]
+[<img align="left" alt="Instagram" width="23px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1620482411~hmac=fcd4e7e93f1a8c2377069863f5c79ade" />][Instagram]
 
 <br/>
 
