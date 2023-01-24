@@ -5,7 +5,6 @@
 
 [<img align="left" alt="VK" width="23px" src="icons/socials/vk.svg" />][VK]
 [<img align="left" alt="Telegram" width="23px" src="icons/socials/telegram.svg" />][Telegram]
-[<img align="left" alt="Instagram" width="23px" src="icons/socials/instagram.svg" />][Instagram]
 
 <br/>
 
