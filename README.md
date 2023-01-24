@@ -15,7 +15,6 @@
 <img align="left" alt="Sass" width="40px" src="icons/skills/sass.svg" />
 <img align="left" alt="JavaScript" width="40px" src="icons/skills/javascript.svg" />
 <img align="left" alt="Git" width="40px" src="icons/skills/git.svg" />
-<img align="left" alt="GitHub" width="40px" src="icons/skills/github.svg" />
 
 <br/>
 <br/>
