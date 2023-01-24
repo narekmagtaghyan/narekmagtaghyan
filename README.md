@@ -23,8 +23,7 @@
 
 
 [VK]: https://vk.com/narekmag
-[Telegram]: https://www.linkedin.com/in/narekmag
-[Instagram]: https://www.instagram.com/narekmag
+[Telegram]: https://t.me/narekmag
 
 <hr/>
 
